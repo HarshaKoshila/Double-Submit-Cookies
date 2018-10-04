@@ -1,6 +1,6 @@
 Double Submit Cookies
 
-•	blog post url -> https://fsocietylk.wordpress.com/2018/05/27/csrf-protection-via-double-submit-cookies/
+•	Blog post url of this scenario -> http://simplecoding17.blogspot.com/2018/10/csrf-protection-via-double-submit.html
 
 Follow the guideline 
 
