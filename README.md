@@ -1,10 +1,14 @@
 Double Submit Cookies
+
 •	blog post url -> https://fsocietylk.wordpress.com/2018/05/27/csrf-protection-via-double-submit-cookies/
+
 Follow the guideline 
+
 Prerequisites
 •	web server installed in local computer(apache, tomcat or iis etc.)
 •	if not download apache web server at http://directory.apache.org/studio/download/download-windows.html
 •	import user.sql find in the source repository, to the newly created database ‘user’ in mySQL.
+
 Windows
 1.First of all go to the web server directory
 for apache c:/program files/apache/htdocs (if it is the wamp server this would be c:/wamp/www)
@@ -14,6 +18,7 @@ for apache c:/program files/apache/htdocs (if it is the wamp server this would b
   b.type httpd.exe
 4.Now start the web browser and type http://localhost/csrf_protection/login.php
 5.Login page will appear on browser
+
 Linux environment
 1.go to /var/www/html directory
 2.place csrf_protection directory inside html direcotry
